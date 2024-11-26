@@ -1,6 +1,6 @@
 # Movie Review Sentiment Classification 
 
-This project aims to classify movie reviews into two categories: **positive** and **negative**, using a **Bag of Words (BoW)** approach combined with **pre-trained GloVe embeddings**. A deep learning model (a neural network) is used for text classification. The model is built using the **Keras** library with a simple architecture involving an embedding layer, followed by fully connected layers.
+This project aims to classify movie reviews into two categories: **positive** and **negative**, using a **Bag of Words (BoW)** Model combined with **pre-trained GloVe embeddings**. A BOW (a neural network) is used for text classification. The model is built using the **Keras** library with a simple architecture involving an embedding layer, followed by fully connected layers.
 
 ---
 
